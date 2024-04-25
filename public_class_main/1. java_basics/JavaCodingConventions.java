@@ -1,4 +1,4 @@
-public class java_coding_conventions{
+public class JavaCodingConventions{
   public static void main(String[] args){
   // This is a comment in java
 
