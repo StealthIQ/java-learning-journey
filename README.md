@@ -28,10 +28,13 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [x] - Data Types: Primitive & Reference ✅ 2024-04-25
     - [x] Swapping Variables ✅ 2024-04-25
     - [x] - Type Casting ✅ 2024-04-25
-    - [ ] - User Input
-    - [ ] - Operators 
-    - [ ] - String Methods
-    - [ ] - printf
+    - [x] - User Input ✅ 2024-04-25
+    - [x] - Operators ✅ 2024-04-25
+	    - [x] Arithmetic ✅ 2024-04-25
+	    - [x] Assignment ✅ 2024-04-25
+	    - [x] Comparison ✅ 2024-04-25
+    - [x] - String Methods ✅ 2024-04-25
+    - [x] - printf ✅ 2024-04-25
     - [ ] - if... else
     - [ ] - Switch
     - [ ] - While... loop
