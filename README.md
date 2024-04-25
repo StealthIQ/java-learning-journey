@@ -3,7 +3,7 @@
 Welcome to my Java learning journey repository! Here, you'll find all the documentation, files, references, and code snippets that I'm using to learn Java. I've created this repository so that future me can easily reference it.
 ## Java Installation
 
-### 1. Arch Linux Installation
+### 1. Arch Linux Installation---
 
 ```bash
 Sudo pacman -Syu --noconfirm --needed
@@ -64,12 +64,8 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [ ] - Reverse Pyramid
 
 - [ ] 7. Java + Object Oriented Programming - OOPs
-
----
 ## Error Handling
 - Here I will provide solution to the errors I have encountered and how I fixed them
-
----
 ## References 
 - *Java Full Course for free ☕ - By Bro Code* [+LINK](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 - *W3 School Java Tutoria*l [+LINK](https://www.w3schools.com/java/default.asp)
