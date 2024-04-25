@@ -22,11 +22,12 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [x] - VIM ✅ 2024-04-25
 ### II. Foundational Java Concepts 
 
-- [ ] 1. Learn about Java comments, naming conventions, and code formatting.
+- [x] 1. Learn about Java comments, naming conventions, and code formatting. ✅ 2024-04-25
 - [ ] 2. Core Syntax:
-    - [ ] - Variables
-    - [ ] - Data Types: Primitive & Reference
-    - [ ] - Type Casting
+    - [x] - Variables ✅ 2024-04-25
+    - [x] - Data Types: Primitive & Reference ✅ 2024-04-25
+    - [x] Swapping Variables ✅ 2024-04-25
+    - [x] - Type Casting ✅ 2024-04-25
     - [ ] - User Input
     - [ ] - Operators 
     - [ ] - String Methods
