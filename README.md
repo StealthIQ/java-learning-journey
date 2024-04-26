@@ -35,12 +35,12 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
 	    - [x] Comparison ✅ 2024-04-25
     - [x] - String Methods ✅ 2024-04-25
     - [x] - printf ✅ 2024-04-25
-    - [ ] - if... else
-    - [ ] - Switch
-    - [ ] - While... loop
+    - [x] - if... else ✅ 2024-04-26
+    - [x] - Switch ✅ 2024-04-26
+    - [x] - While... loop ✅ 2024-04-27
     - [ ] - For... Loop
-    - [ ] - Break, Continue
-    - [ ] - try... catch Exception Handling
+    - [x] - Break, Continue ✅ 2024-04-27
+    - [x] - try... catch Exception Handling ✅ 2024-04-27
     - [ ] - Math
     - [ ] - Arrays
     - [ ] - GUI
