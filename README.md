@@ -38,16 +38,16 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [x] - if... else ✅ 2024-04-26
     - [x] - Switch ✅ 2024-04-26
     - [x] - While... loop ✅ 2024-04-27
-    - [ ] - For... Loop
+    - [x] - For... Loop ✅ 2024-05-01
     - [x] - Break, Continue ✅ 2024-04-27
     - [x] - try... catch Exception Handling ✅ 2024-04-27
     - [ ] - Math
     - [ ] - Arrays
     - [ ] - GUI
 
-- [ ] 3. Java Methods and Functions
-    - [ ] - Method 
-    - [ ] - Parameters
+- [x] 3. Java Methods and Functions ✅ 2024-05-01
+    - [x] - Method ✅ 2024-05-01
+    - [x] - Parameters ✅ 2024-05-01
 
 - [ ] 4. File Handling
     - [ ] - Create Files
@@ -56,16 +56,17 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [ ] - Delete Files
 
 - [ ] 5. Cool Stuff I learned
-    - [ ] - Clear Terminal
+    - [x] - Clear Terminal ✅ 2024-05-01
     - [ ] - printf - tables
-    - [ ] - Time Sleep
+    - [x] - Time Sleep ✅ 2024-05-01
     - [ ] - String Manipulation
     - [ ] - Multithreading 
 
 - [ ] 6. Patterns Using Java
-    - [ ] - Rectangle
-    - [ ] - Half Pyramid
-    - [ ] - Reverse Pyramid
+    - [x] - Square ✅ 2024-05-01
+    - [x] - Half Pyramid ✅ 2024-05-01
+    - [x] - Reverse Pyramid ✅ 2024-05-01
+    - [x] Full pyrimid
 
 - [ ] 7. Java + Object Oriented Programming - OOPs
 ## Error Handling
