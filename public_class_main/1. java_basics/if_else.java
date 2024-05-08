@@ -58,5 +58,9 @@ public class if_else{
       default:
         System.out.println("Your grade cannot be determined");
     }
+
+    // scanner closed to prevent resourrce leakage
+    scanner.close();
+
   }
 }
