@@ -6,7 +6,7 @@ Welcome to my Java learning journey repository! Here, you'll find all the docume
 ### 1. Arch Linux Installation---
 
 ```bash
-Sudo pacman -Syu --noconfirm --needed
+sudo pacman -Syu --noconfirm --needed
 sudo pacman -S jdk-openjdk --noconfirm --needed
 ```
 
@@ -23,7 +23,7 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
 ### II. Foundational Java Concepts 
 
 - [x] 1. Learn about Java comments, naming conventions, and code formatting. ✅ 2024-04-25
-- [ ] 2. Core Syntax:
+- [x] 2. Core Syntax: ✅ 2024-05-08
     - [x] - Variables ✅ 2024-04-25
     - [x] - Data Types: Primitive & Reference ✅ 2024-04-25
     - [x] Swapping Variables ✅ 2024-04-25
@@ -41,28 +41,28 @@ sudo pacman -S jdk-openjdk --noconfirm --needed
     - [x] - For... Loop ✅ 2024-05-01
     - [x] - Break, Continue ✅ 2024-04-27
     - [x] - try... catch Exception Handling ✅ 2024-04-27
-    - [ ] - Math
-    - [ ] - Arrays
-    - [ ] - GUI
+    - [x] - Math ✅ 2024-05-03
+    - [x] - Arrays ✅ 2024-05-03
+    - [ ] - GUI - (AWT)
 
 - [x] 3. Java Methods and Functions ✅ 2024-05-01
     - [x] - Method ✅ 2024-05-01
     - [x] - Parameters ✅ 2024-05-01
 
-- [ ] 4. File Handling
-    - [ ] - Create Files
-    - [ ] - Write Files
-    - [ ] - Read Files
-    - [ ] - Delete Files
+- [x] 4. File Handling ✅ 2024-05-08
+    - [x] - Create Files ✅ 2024-05-07
+    - [x] - Write Files ✅ 2024-05-08
+    - [x] - Read Files ✅ 2024-05-08
+    - [x] - Delete Files ✅ 2024-05-07
 
 - [ ] 5. Cool Stuff I learned
     - [x] - Clear Terminal ✅ 2024-05-01
-    - [ ] - printf - tables
+    - [x] - printf - tables ✅ 2024-05-08
     - [x] - Time Sleep ✅ 2024-05-01
     - [ ] - String Manipulation
     - [ ] - Multithreading 
 
-- [ ] 6. Patterns Using Java
+- [x] 6. Patterns Using Java
     - [x] - Square ✅ 2024-05-01
     - [x] - Half Pyramid ✅ 2024-05-01
     - [x] - Reverse Pyramid ✅ 2024-05-01
